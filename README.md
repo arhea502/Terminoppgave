@@ -3,7 +3,7 @@
 ### Er litt usikker på hvordan oppgaven vil se ut, eller hva jeg gjør med den. Jeg har gitt forslag som jeg kan starte fra.
 
 # Kort beskrivelse
-Dette prosjektet skal jeg kode, teste, jobbe med database og veilede kanskje.  
+I dette prosjektet skal jeg kode, teste, jobbe med database og veilede kanskje.  
 Målet er å lage en løsning som kan brukes til formål, f.eks. planlegging, streaming, resultatservice, kommunikasjon, kundestøtte.
 
 ### Prototype / MVP
@@ -18,7 +18,7 @@ En enkel prototype (MVP) kan vise:
 
 | Teknologi/Utstyr | Hva det brukes til |
 |------------------|-------------------|
-| HTML/CSS/JS | Frontend – bygging av brukergrensesnitt |
+| HTML/CSS/JS | Frontend bygging av brukergrensesnitt |
 | React / Next.js | Dynamisk frontend for rask utvikling |
 | Node.js / Express | Backend for å håndtere API-er og datalagring |
 | MySQL / MongoDB | Database for lagring av data (f.eks. brukere, resultater) |
