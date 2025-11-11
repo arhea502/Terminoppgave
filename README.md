@@ -1,8 +1,10 @@
 # Prosjekt: Terminoppgave
 
+### Er litt usikker på hvordan oppgaven vil se ut, eller hva jeg gjør med den. Jeg har gitt forslag som jeg kan starte fra.
+
 # Kort beskrivelse
 Dette prosjektet skal jeg kode, teste, jobbe med database og veilede kanskje.  
-Målet er å lage en løsning som kan brukes til [formål, f.eks. planlegging, streaming, resultatservice, kommunikasjon, kundestøtte].
+Målet er å lage en løsning som kan brukes til formål, f.eks. planlegging, streaming, resultatservice, kommunikasjon, kundestøtte.
 
 ### Prototype / MVP
 En enkel prototype (MVP) kan vise:
@@ -37,7 +39,7 @@ En enkel prototype (MVP) kan vise:
 
 #  Plan / oppgaver
 
- Se GitHub Project: [Lenke til prosjektboardet ditt]
+ Se GitHub Project: (https://github.com/arhea502/Terminoppgave/blob/main/README.md)
 
 
 
