@@ -1,18 +1,18 @@
-# Prosjekt: [Navn på prosjektet ditt]
+# Prosjekt: Terminoppgave
 
-## 🧩 Kort beskrivelse
-Dette prosjektet skal [beskriv kort hva du lager — f.eks. en nettside, et system for turnering, en live-produksjon, en app osv.].  
+# Kort beskrivelse
+Dette prosjektet skal jeg kode, teste, jobbe med database og veilede kanskje.  
 Målet er å lage en løsning som kan brukes til [formål, f.eks. planlegging, streaming, resultatservice, kommunikasjon, kundestøtte].
 
 ### Prototype / MVP
 En enkel prototype (MVP) kan vise:
-- [eksempel: et dashboard med oversikt over kamper]
-- [eksempel: et skjema for å registrere lag eller brukere]
-- [eksempel: en side som viser live-score eller video-feed]
+- eksempel: et dashboard med oversikt over noe
+- eksempel: et skjema for å registrere brukere
+- eksempe: en side som viser live video-feed
 
 ---
 
-## 💻 Språk, teknologier og utstyr
+#  Språk, teknologier og utstyr
 
 | Teknologi/Utstyr | Hva det brukes til |
 |------------------|-------------------|
@@ -25,7 +25,7 @@ En enkel prototype (MVP) kan vise:
 
 ---
 
-## 📚 Faglig kompetanse (Drift, Utvikling, Brukerstøtte)
+#  Faglig kompetanse (Drift, Utvikling, Brukerstøtte)
 
 | Fagområde | Hvordan prosjektet viser kompetanse |
 |------------|------------------------------------|
@@ -35,9 +35,9 @@ En enkel prototype (MVP) kan vise:
 
 ---
 
-## 🧱 Plan / oppgaver
+#  Plan / oppgaver
 
-👉 Se GitHub Project: [Lenke til prosjektboardet ditt]
+ Se GitHub Project: [Lenke til prosjektboardet ditt]
 
 
 
