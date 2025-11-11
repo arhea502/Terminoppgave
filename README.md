@@ -43,8 +43,9 @@ En enkel prototype (MVP) kan vise:
 
 
 
-Forslag til mappestruktur
+# Forslag til mappestruktur
 
+```bash
 project-root/
 ├── backend/
 │   ├── server.js
